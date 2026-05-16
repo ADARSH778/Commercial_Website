@@ -10,7 +10,7 @@ To create a commercial website using CSS Flexbox.
 Create an HTML file (index.html)
 
 ### STEP 2
-Create a CSS file (style.css)
+Create a CSS file (style.css) 
 
 ### STEP 3
 Include a navigation bar with links to different sections.
